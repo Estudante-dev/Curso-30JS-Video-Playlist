@@ -18,11 +18,6 @@ body {
 }
 
 
-video {
-    width: 100%;
-    border-radius: 1rem;
-}
-
 .videoListado {
     cursor: pointer;
 }
